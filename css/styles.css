@@ -14,7 +14,7 @@ ul {
 .button_1 {
 	height: 40px;
 	background: #e8491d;
-	border: none;
+	border: 1px solid cyan;
 	padding-left: 20px;
 	padding-right: 20px;
 	color: white;
